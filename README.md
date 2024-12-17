@@ -12,13 +12,13 @@ Aquí encontrarás ejemplos de proyectos en los que he contribuido junto a compa
 - **Mi Rol:** Crear las clases *Barco* y *Barcos_npc*, corregir errores y poner en práctica el juego.
 - **Fecha:** Junio 2024.
 
-### 2. **[SQL y Base de Datos](SQL_DDBB)**
+### 2. **[SQL y Base de Datos](SQL_DDBB) 🔍**
 - **Descripción:**
 
     - Parte de **SQL**: Aplicar los conecptos básicos de SQL y tener que manejarlos con un modelo de datos, mientras se resuelve un caso de asesinato.  Este espectacular juego está creado por *Joon Park y Cathy He*, y se podrá encontrar todos los detalles en su [web](https://mystery.knightlab.com/)
     - Parte de **Base de Datos**: Diseñar el modelo de datos con las tablas SQL, sus campos y tipos así como las relaciones de una base datos
       
-- **Tecnologías:** Python, Pandas, Sqlite3, .
+- **Tecnologías:** Python, Pandas, Sqlite3.
 - **Mi Rol:** Desarrollo de todas las queries y solución del juego del asesinato.
 - **Fecha:** Julio 2024.
 
