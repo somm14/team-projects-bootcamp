@@ -41,3 +41,6 @@ Aquí encontrarás ejemplos de proyectos en los que he contribuido junto a compa
 - **Tecnologías:** Python, Numpy, Pandas, Scikit-Learn, Flask, Matplotlib, Seaborn.
 - **Mi Rol:** Realizar las modificaciones en PythonAnyWhere.
 - **Fecha:** Noviembre 2024.
+  
+**--> ¿Te interesa saber más sobre mi trabajo?**
+¡No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/sorayamm/) o revisar mis otros repositorios en [GitHub](https://github.com/somm14)!
