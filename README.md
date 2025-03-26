@@ -27,5 +27,17 @@ Aquí encontrarás ejemplos de proyectos en los que he contribuido junto a compa
 - **Tecnologías:** Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy.
 - **Mi Rol:** Elaboración de las funciones `describe_df`, `tipifica_variables` y ayuda en `get_features_num_regression` y `plot_features_num_regression`.
 - **Fecha:** Septiembre 2024.
-- 
-🚧EN CONSTRUCCIÓN...🚧
+
+### 4. **[Pipilines de preprocesamiento](Pipeline_practica) 🤖**
+- **Descripción:** Resolución de dos problemas de Machine Learning enfoncados en el uso de pipelines para el preprocesamiento de los datos. A partir de un dataset con información nutricional, hemos empleado el uso de pipelines para resolver un problema de clasificicación y otro de regresión.
+- **Tecnologías:**
+    - Python, Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Imbalanced-Learn.
+    - Uso de modelo de Machine Learning como: XGBoost, LightGBM, Regresión Lineal, Random Forest, Regresión Logística y KNN, entre otros.
+- **Mi Rol:** Elaboración de todo el modelo de regresión.
+- **Fecha:** Noviembre 2024.
+
+### 5. **[Creación API](flask_app) 💻**
+- **Descripción:** Levantamiento de una API para un modelo de regresión logística con Flask y Python Anywhere. A través de la API y diferentes enpoints, se puede reentrenar el modelo así como realizar predicciones.
+- **Tecnologías:** Python, Numpy, Pandas, Scikit-Learn, Flask, Matplotlib, Seaborn.
+- **Mi Rol:** Realizar las modificaciones en PythonAnyWhere.
+- **Fecha:** Noviembre 2024.
