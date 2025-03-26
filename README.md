@@ -22,4 +22,9 @@ Aquí encontrarás ejemplos de proyectos en los que he contribuido junto a compa
 - **Mi Rol:** Desarrollo de todas las queries y solución del juego del asesinato.
 - **Fecha:** Julio 2024.
 
+### 2. **[Tool Box de Machine Learning](ToolBox_ML) 🔍**
+- **Descripción:** Creación de una caja de herramientas con funciones desarrolladas con el objetivo de ayudar a reslizar el análisis y selección de features de la forma más flexible posible, dado un problema de Machine Learning concreto.
+- **Tecnologías:** Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy.
+- **Mi Rol:** Elaboración de las funciones `describe_df`, `tipifica_variables` y ayuda en `get_features_num_regression` y `plot_features_num_regression`.
+- **Fecha:** Septiembre 2024.
 🚧EN CONSTRUCCIÓN...🚧
